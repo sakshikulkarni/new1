@@ -1,2 +1,3 @@
-# new1
-My first repository in GIThub
+# This program prints Hello, world!
+
+print('Hello, world!')
